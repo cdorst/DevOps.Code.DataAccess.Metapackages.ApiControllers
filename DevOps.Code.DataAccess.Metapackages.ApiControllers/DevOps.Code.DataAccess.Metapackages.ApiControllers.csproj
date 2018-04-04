@@ -15,11 +15,12 @@
     <PackageLicenseUrl>https://github.com/cdorst/DevOps.Code.DataAccess.Metapackages.ApiControllers/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/cdorst/DevOps.Code.DataAccess.Metapackages.ApiControllers</PackageProjectUrl>
     <RepositoryUrl>https://github.com/cdorst/DevOps.Code.DataAccess.Metapackages.ApiControllers</RepositoryUrl>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.1.0-preview1-final" />
+    <PackageReference Include="Microsoft.AspNetCore.JsonPatch" Version="2.1.0-preview1-final" />
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="2.1.0-preview1-final" />
     <PackageReference Include="CDorst.DevOps.Code.DataAccess.Interfaces.Repository" Version="1.0.1" />
   </ItemGroup>

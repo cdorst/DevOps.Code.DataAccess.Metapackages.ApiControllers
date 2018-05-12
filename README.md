@@ -19,10 +19,10 @@ Name | Description
 
 Name | Status
 ---- | ------
-Microsoft.AspNetCore.Mvc.Core | [![NuGet package status](https://img.shields.io/nuget/v/Microsoft.AspNetCore.Mvc.Core.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.Core)
-Microsoft.AspNetCore.JsonPatch | [![NuGet package status](https://img.shields.io/nuget/v/Microsoft.AspNetCore.JsonPatch.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/Microsoft.AspNetCore.JsonPatch)
-Microsoft.Extensions.Logging.Abstractions | [![NuGet package status](https://img.shields.io/nuget/v/Microsoft.Extensions.Logging.Abstractions.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/Microsoft.Extensions.Logging.Abstractions)
 [CDorst.DevOps.Code.DataAccess.Interfaces.Repository](https://github.com/CDorst/DevOps.Code.DataAccess.Interfaces.Repository) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/devops-code-dataaccess-interfaces-repository.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/devops-code-dataaccess-interfaces-repository) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.DevOps.Code.DataAccess.Interfaces.Repository.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.DevOps.Code.DataAccess.Interfaces.Repository)
+Microsoft.AspNetCore.JsonPatch | [![NuGet package status](https://img.shields.io/nuget/v/Microsoft.AspNetCore.JsonPatch.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/Microsoft.AspNetCore.JsonPatch)
+Microsoft.AspNetCore.Mvc.Core | [![NuGet package status](https://img.shields.io/nuget/v/Microsoft.AspNetCore.Mvc.Core.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.Core)
+Microsoft.Extensions.Logging.Abstractions | [![NuGet package status](https://img.shields.io/nuget/v/Microsoft.Extensions.Logging.Abstractions.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/Microsoft.Extensions.Logging.Abstractions)
 
 ## Dependents
 
@@ -48,7 +48,7 @@ This project is published as a NuGet package at [https://www.nuget.org/packages/
 
 ## Version
 
-1.0.1
+1.0.2
 
 ## Metaproject
 
